@@ -1,0 +1,9 @@
+.env
+.DS_Store
+/log/*
+/tmp/*
+*.log
+.bundle/
+Gemfile.lock
+/coverage/
+books_downloaded
